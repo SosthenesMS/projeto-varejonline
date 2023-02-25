@@ -1,6 +1,6 @@
 </br>
 <div align="center">
-  <img src="varejonline-projeto/frontend/src/assets/images/logo-varejo-nome.png" width="75%" />
+  <img src="frontend/src/assets/images/logo-varejo-nome.png" width="75%" />
 </div>
 </br>
 
@@ -10,5 +10,5 @@
 <h2>Diagrama de Classes</h2>
 </br>
 <div align="center">
-  <img src="varejonline-projeto/frontend/src/assets/images/DiagramaClasses-ProjetoVarejOnline.png" width="90%" />
+  <img src="frontend/src/assets/images/DiagramaClasses-ProjetoVarejOnline.png" width="90%" />
 </div>
