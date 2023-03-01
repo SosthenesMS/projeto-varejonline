@@ -8,11 +8,11 @@
     <name>frontend</name>
     <description>Frontend do Projeto Inicial</description>
 
-    <parent>
+    <!-- <parent>
         <groupId>br.com.varejonline</groupId>
         <artifactId>projeto-inicial</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-    </parent>
+    </parent> -->
 
     <profiles>
         <profile>
