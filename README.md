@@ -14,6 +14,9 @@
 </div>
 
 <div>
+<h2>Documentação Swagger</h2>
+<p><a href="http://localhost:8080/swagger-ui/index.html">Link</a> para o Swagger UI.</p>
+</div>
 
 ## Orientações Gerais ##
 
